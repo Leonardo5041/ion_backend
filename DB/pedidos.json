@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5ffd0fff504c4143459a3b84"},"cliente":{"$oid":"5ffcffc6afca49397ba5a759"},"pedido":[{"_id":{"$oid":"5ffd0fff504c4143459a3b85"},"producto":{"$oid":"5ffd0b1dc581354081563c8f"},"cantidad":1}],"total":1500,"descuento":100,"__v":0}

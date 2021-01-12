@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5ffd0b1dc581354081563c8f"},"nombre":"IBM servidor","precio":1500,"stock":10,"proveedor":{"$oid":"5ffd04eed6e2723c85bf9fc4"},"__v":0}

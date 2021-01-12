@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5ffd04eed6e2723c85bf9fc4"},"nombre":"IBM","direccion":"lomas verdes","rfc":"IBM98761298","email":"correo3@correo3.com","telefono":"5578892938","__v":0}
+{"_id":{"$oid":"5ffd072951b3663e1ac7bb71"},"nombre":"Google","direccion":"USA","rfc":"GOO94755296","email":"correos@correo.com","telefono":"5559322304","__v":0}
+{"_id":{"$oid":"5ffd075751b3663e1ac7bb72"},"nombre":"Facebook","direccion":"USA","rfc":"FB10725299","email":"correo2@correo.com","telefono":"5559322304","__v":0}
