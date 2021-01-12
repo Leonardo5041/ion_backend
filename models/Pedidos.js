@@ -19,6 +19,9 @@ const pedidosSchema = new Schema({
     ],
     total: {
         type: Number
+    },
+    descuento:{
+        type:Number
     }
 
 });
