@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 
 //conectar mongodb 
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://localhost/restapis', {
+mongoose.connect(process.env.DB_URL, {
     useNewUrlParser: true
 });
 
