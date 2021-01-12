@@ -2,6 +2,7 @@ const express = require('express');
 const routes = require('./routes/index');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
+require('dotenv').config({ path: 'variables.env' });
 
 //conectar mongodb 
 mongoose.Promise = global.Promise;
