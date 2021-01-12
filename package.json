@@ -1,10 +1,9 @@
 {
   "name": "restapisnode",
   "version": "1.0.0",
-  "description": "Aprendiendo a crear REST APIS",
+  "description": "PRUEBA TECNICA ION",
   "main": "index.js",
   "scripts": {
-    "desarrollo": "nodemon ./index.js",
     "start": "node ./index.js"
   },
   "author": "Leonardo Ramirez",
